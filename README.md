@@ -1,3 +1,3 @@
 # hello-world
 
-Going through the mtoions. It's ben awhile.
+Going through the motions. It's been awhile.
